@@ -1,0 +1,43 @@
+{
+  "id": "usina-alcon",
+  "name": "USINA ALCON",
+  "level": "PRIME",
+  "areaHa": 15000,
+  "potential": "Potencial de escala",
+  "adoptionStage": "Escala de tecnologia",
+  "technologyEntry": "Portfolio core",
+  "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+  "partner": "TCH + NOOA Tecnica",
+  "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+  "governance": "Plano executivo e rotina mensal",
+  "assistStage": {
+    "current": "Corrigir",
+    "progress": 64,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "done"
+      },
+      {
+        "name": "Corrigir",
+        "status": "current"
+      },
+      {
+        "name": "Evoluir",
+        "status": "next"
+      }
+    ]
+  },
+  "approvalStatus": "Aprovacao gerencial",
+  "followUp": {
+    "cadence": "Mensal com gestor + semanal comercial",
+    "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+    "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+  },
+  "clientReport": {
+    "title": "Evolution Report | USINA ALCON",
+    "thesis": "USINA ALCON: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Converter oportunidade em proposta com mix core e marco tecnico",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}

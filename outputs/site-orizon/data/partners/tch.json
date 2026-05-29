@@ -1,0 +1,358 @@
+{
+  "generatedAt": "2026-05-27T19:14:33.348428+00:00",
+  "partner": "TCH",
+  "assignedClients": [
+    {
+      "id": "grupo-tereos",
+      "name": "GRUPO TEREOS",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Plano tecnico, treinamento ou correcao em andamento"
+    },
+    {
+      "id": "grupo-coruripe",
+      "name": "GRUPO CORURIPE",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Plano tecnico, treinamento ou correcao em andamento"
+    },
+    {
+      "id": "usina-delta",
+      "name": "USINA DELTA",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Evidencia tecnica e tese de expansao para proxima safra"
+    },
+    {
+      "id": "grupo-cocal",
+      "name": "GRUPO COCAL",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Plano tecnico, treinamento ou correcao em andamento"
+    },
+    {
+      "id": "grupo-pedra",
+      "name": "GRUPO PEDRA",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Plano tecnico, treinamento ou correcao em andamento"
+    },
+    {
+      "id": "grupo-raizen",
+      "name": "GRUPO RAÍZEN",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Entrar por unidades-piloto, validar com TCH, padronizar e renovar em contrato plurianual",
+      "nextMilestone": "Diagnostico pendente ou decisor ainda nao confirmado"
+    },
+    {
+      "id": "grupo-viterra",
+      "name": "GRUPO VITERRA",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Evidencia tecnica e tese de expansao para proxima safra"
+    },
+    {
+      "id": "usina-santa-adelia",
+      "name": "USINA SANTA ADELIA",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Evidencia tecnica e tese de expansao para proxima safra"
+    },
+    {
+      "id": "usina-uberaba",
+      "name": "USINA UBERABA",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Evidencia tecnica e tese de expansao para proxima safra"
+    },
+    {
+      "id": "usina-branco-peres",
+      "name": "USINA BRANCO PERES",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Plano tecnico, treinamento ou correcao em andamento"
+    },
+    {
+      "id": "grupo-aralco",
+      "name": "GRUPO ARALCO",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Evidencia tecnica e tese de expansao para proxima safra"
+    },
+    {
+      "id": "usina-california",
+      "name": "USINA CALIFÓRNIA",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Plano tecnico, treinamento ou correcao em andamento"
+    },
+    {
+      "id": "usina-alcon",
+      "name": "USINA ALCON",
+      "level": "PRIME",
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "nextMilestone": "Plano tecnico, treinamento ou correcao em andamento"
+    },
+    {
+      "id": "grupo-cofco",
+      "name": "GRUPO COFCO",
+      "level": "PRIME",
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Usar linha basica como porta de entrada e migrar para Auras/Auba/Tritter",
+      "nextMilestone": "Plano tecnico, treinamento ou correcao em andamento"
+    }
+  ],
+  "visibility": "partner",
+  "note": "Payload sem credito, politica comercial, ranking, score breakdown ou dados de outros parceiros."
+}

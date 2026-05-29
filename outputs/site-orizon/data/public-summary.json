@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-05-27T19:14:33.348428+00:00",
+  "program": {
+    "name": "ORIZON",
+    "subtitle": "Plataforma de Evolucao Operacional Agricola",
+    "positioning": "Programa 100% assistido para diagnosticar gargalos, corrigir operacoes e evoluir a maturidade operacional do cliente.",
+    "principles": [
+      "Credito ORIZON e budget tecnico-operacional, nao desconto.",
+      "Clientes evoluem por maturidade e evidencia, nao por pressao comercial.",
+      "Parceiros entram por necessidade tecnica, com TCH como diagnostico inicial recomendado e Mais Maquinas como evolucao estrutural futura."
+    ],
+    "stages": [
+      {
+        "name": "Diagnosticar",
+        "description": "Identificar gargalos operacionais, qualidade de aplicacao, janelas e padronizacao."
+      },
+      {
+        "name": "Corrigir",
+        "description": "Estruturar treinamentos, recomendacoes tecnicas, planos e correcao de processos."
+      },
+      {
+        "name": "Evoluir",
+        "description": "Modernizar sistemas, implementar melhorias e consolidar evolucao continua."
+      }
+    ]
+  },
+  "aggregates": {
+    "clientsMapped": 45,
+    "primePlusClients": 23,
+    "levels": {
+      "START": {
+        "clients": 17
+      },
+      "FLOW": {
+        "clients": 5
+      },
+      "PRIME": {
+        "clients": 9
+      },
+      "LEGACY": {
+        "clients": 14
+      }
+    }
+  },
+  "publicAgents": [
+    "Maestro ORIZON",
+    "Tecnico / Diagnostico Agent",
+    "Credito / Politica Agent",
+    "Aprovacao / Assinatura Agent",
+    "GIS / Areas Agent",
+    "Follow-up / Cadencia Agent",
+    "Relatorio Executivo Agent"
+  ]
+}

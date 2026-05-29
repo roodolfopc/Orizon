@@ -1,0 +1,17 @@
+# Local dependencies and platform state
+node_modules/
+.vercel/
+
+# Generated QA previews and temporary outputs
+outputs/site-orizon/previews/
+outputs/manual-*/
+
+# Runtime/cache noise
+__pycache__/
+*.pyc
+*.log
+*.tmp
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+{
+  "id": "grupo-clealco",
+  "name": "GRUPO CLEALCO",
+  "level": "FLOW",
+  "areaHa": 40000,
+  "potential": "Potencial em qualificacao",
+  "adoptionStage": "Prova de valor assistida",
+  "technologyEntry": "Portfolio core",
+  "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+  "partner": "NOOA Tecnica",
+  "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+  "governance": "Acompanhamento comercial por marco",
+  "assistStage": {
+    "current": "Corrigir",
+    "progress": 64,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "done"
+      },
+      {
+        "name": "Corrigir",
+        "status": "current"
+      },
+      {
+        "name": "Evoluir",
+        "status": "next"
+      }
+    ]
+  },
+  "approvalStatus": "Plano tecnico simples",
+  "followUp": {
+    "cadence": "Quinzenal ate prova de valor",
+    "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+    "nextAction": "Definir protocolo mensuravel e criterio de continuidade"
+  },
+  "clientReport": {
+    "title": "Evolution Report | GRUPO CLEALCO",
+    "thesis": "GRUPO CLEALCO: Potencial latente com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Definir protocolo mensuravel e criterio de continuidade",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}

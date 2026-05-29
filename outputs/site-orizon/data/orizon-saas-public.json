@@ -1,0 +1,161 @@
+{
+  "generatedAt": "2026-05-29T13:20:26.552367+00:00",
+  "executive": {
+    "clientCount": 44,
+    "areaTotalHa": 3956000.0,
+    "potentialCredits": 8268775.0,
+    "opiAverage": 53.79318181818182,
+    "conversionAverage": 0.5265909090909091,
+    "categoryDistribution": [
+      {
+        "category": "Foundation",
+        "clients": 19,
+        "areaHa": 659000.0,
+        "credits": 548124.0,
+        "potentialEcosystem": 59103205.0
+      },
+      {
+        "category": "Flow",
+        "clients": 16,
+        "areaHa": 1107000.0,
+        "credits": 1401778.0,
+        "potentialEcosystem": 125817335.0
+      },
+      {
+        "category": "Prime",
+        "clients": 4,
+        "areaHa": 420000.0,
+        "credits": 930501.0,
+        "potentialEcosystem": 66889550.0
+      },
+      {
+        "category": "Legacy",
+        "clients": 4,
+        "areaHa": 770000.0,
+        "credits": 1923372.0,
+        "potentialEcosystem": 103696950.0
+      },
+      {
+        "category": "Legacy Anchor",
+        "clients": 1,
+        "areaHa": 1000000.0,
+        "credits": 3465000.0,
+        "potentialEcosystem": 149450000.0
+      }
+    ],
+    "kaizenDistribution": [
+      {
+        "stage": "K0",
+        "clients": 44
+      },
+      {
+        "stage": "K1",
+        "clients": 0
+      },
+      {
+        "stage": "K2",
+        "clients": 0
+      },
+      {
+        "stage": "K3",
+        "clients": 0
+      },
+      {
+        "stage": "K4",
+        "clients": 0
+      },
+      {
+        "stage": "K5",
+        "clients": 0
+      }
+    ]
+  },
+  "kaizenJourney": [
+    {
+      "stage": "K0",
+      "name": "Entrada / Sem diagnóstico",
+      "minScore": 0.0,
+      "requiredDelivery": "Cadastro do cliente e dados de área",
+      "evidence": "Base validada",
+      "suggestedCredits": 0.0,
+      "owner": "Comercial/DTM",
+      "executiveObjective": "Mapear potencial"
+    },
+    {
+      "stage": "K1",
+      "name": "Diagnóstico",
+      "minScore": 100.0,
+      "requiredDelivery": "Diagnóstico técnico-operacional",
+      "evidence": "Relatório diagnóstico",
+      "suggestedCredits": 250.0,
+      "owner": "DTM/Consultoria",
+      "executiveObjective": "Identificar gargalos"
+    },
+    {
+      "stage": "K2",
+      "name": "Plano de ação",
+      "minScore": 250.0,
+      "requiredDelivery": "Plano de melhoria priorizado",
+      "evidence": "Plano aprovado",
+      "suggestedCredits": 300.0,
+      "owner": "DTM + Cliente",
+      "executiveObjective": "Definir projetos"
+    },
+    {
+      "stage": "K3",
+      "name": "Projeto implantado",
+      "minScore": 500.0,
+      "requiredDelivery": "Projeto em campo/operacional",
+      "evidence": "Evidência de execução",
+      "suggestedCredits": 500.0,
+      "owner": "NOOA + Parceiros",
+      "executiveObjective": "Gerar resultado"
+    },
+    {
+      "stage": "K4",
+      "name": "ROI validado",
+      "minScore": 750.0,
+      "requiredDelivery": "Resultado econômico validado",
+      "evidence": "ROI, TCH, ATR ou indicador técnico",
+      "suggestedCredits": 700.0,
+      "owner": "NOOA + Cliente",
+      "executiveObjective": "Comprovar valor"
+    },
+    {
+      "stage": "K5",
+      "name": "Benchmark",
+      "minScore": 1000.0,
+      "requiredDelivery": "Replicação e vitrine",
+      "evidence": "Dia de campo/case/replicação",
+      "suggestedCredits": 1000.0,
+      "owner": "Diretoria/Cliente",
+      "executiveObjective": "Escalar ecossistema"
+    }
+  ],
+  "saasModules": [
+    {
+      "name": "Clientes e Unidades",
+      "description": "Cadastro, area agricola, situacao e proximo movimento."
+    },
+    {
+      "name": "OPI e Categoria",
+      "description": "Classifica potencial estrategico sem alterar maturidade operacional."
+    },
+    {
+      "name": "Jornada Kaizen",
+      "description": "Todo cliente inicia em K0 e evolui por evidencia validada."
+    },
+    {
+      "name": "Creditos Orizon",
+      "description": "Ledger de acesso a diagnosticos, projetos e servicos."
+    },
+    {
+      "name": "Diagnosticos e Projetos",
+      "description": "Conecta gargalos, produtos, plano, implantacao e validacao."
+    },
+    {
+      "name": "VGO e Relatorios",
+      "description": "Valor gerado apenas por resultados validados."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "usina-delta",
+  "name": "USINA DELTA",
+  "level": "LEGACY",
+  "areaHa": 120000,
+  "potential": "Alto potencial estruturante",
+  "adoptionStage": "Escala de tecnologia",
+  "technologyEntry": "Portfolio core",
+  "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+  "partner": "TCH + NOOA Tecnica",
+  "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+  "governance": "Plano executivo e rotina mensal",
+  "assistStage": {
+    "current": "Evoluir",
+    "progress": 88,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "done"
+      },
+      {
+        "name": "Corrigir",
+        "status": "done"
+      },
+      {
+        "name": "Evoluir",
+        "status": "current"
+      }
+    ]
+  },
+  "approvalStatus": "Comite executivo",
+  "followUp": {
+    "cadence": "Mensal executivo + semanal operacional",
+    "trigger": "Evidencia tecnica e tese de expansao para proxima safra",
+    "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+  },
+  "clientReport": {
+    "title": "Evolution Report | USINA DELTA",
+    "thesis": "USINA DELTA: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}

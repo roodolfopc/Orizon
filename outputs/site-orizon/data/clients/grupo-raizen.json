@@ -1,0 +1,43 @@
+{
+  "id": "grupo-raizen",
+  "name": "GRUPO RAÍZEN",
+  "level": "LEGACY",
+  "areaHa": 1000000,
+  "potential": "Alto potencial estruturante",
+  "adoptionStage": "Piloto enterprise LEGACY",
+  "technologyEntry": "Portfolio core",
+  "adoptionDirective": "Governanca enterprise, validacao TCH e expansao plurianual",
+  "partner": "TCH ano 1 + Mais Maquinas ano 2",
+  "evolutionTrack": "Entrar por unidades-piloto, validar com TCH, padronizar e renovar em contrato plurianual",
+  "governance": "Plano executivo e rotina mensal",
+  "assistStage": {
+    "current": "Diagnosticar",
+    "progress": 34,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "current"
+      },
+      {
+        "name": "Corrigir",
+        "status": "next"
+      },
+      {
+        "name": "Evoluir",
+        "status": "next"
+      }
+    ]
+  },
+  "approvalStatus": "Comite executivo",
+  "followUp": {
+    "cadence": "Mensal executivo + semanal operacional",
+    "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+    "nextAction": "Abrir comite LEGACY e validar piloto governado"
+  },
+  "clientReport": {
+    "title": "Evolution Report | GRUPO RAÍZEN",
+    "thesis": "GRUPO RAÍZEN: Ancora estrategica com piloto enterprise legacy. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Abrir comite LEGACY e validar piloto governado",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "grupo-cofco",
+  "name": "GRUPO COFCO",
+  "level": "PRIME",
+  "areaHa": 90000,
+  "potential": "Potencial de escala",
+  "adoptionStage": "Entrada por tecnologia basica",
+  "technologyEntry": "Linha basica",
+  "adoptionDirective": "Converter entrada basica em trilha de adocao tecnologica",
+  "partner": "TCH + NOOA Tecnica",
+  "evolutionTrack": "Usar linha basica como porta de entrada e migrar para Auras/Auba/Tritter",
+  "governance": "Plano executivo e rotina mensal",
+  "assistStage": {
+    "current": "Corrigir",
+    "progress": 64,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "done"
+      },
+      {
+        "name": "Corrigir",
+        "status": "current"
+      },
+      {
+        "name": "Evoluir",
+        "status": "next"
+      }
+    ]
+  },
+  "approvalStatus": "Aprovacao gerencial",
+  "followUp": {
+    "cadence": "Mensal com gestor + semanal comercial",
+    "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+    "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+  },
+  "clientReport": {
+    "title": "Evolution Report | GRUPO COFCO",
+    "thesis": "GRUPO COFCO: Alto potencial estruturante com entrada por tecnologia basica. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Converter oportunidade em proposta com mix core e marco tecnico",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}

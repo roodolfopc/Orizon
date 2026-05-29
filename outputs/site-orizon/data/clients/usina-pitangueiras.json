@@ -1,0 +1,43 @@
+{
+  "id": "usina-pitangueiras",
+  "name": "USINA PITANGUEIRAS",
+  "level": "FLOW",
+  "areaHa": 20000,
+  "potential": "Potencial em qualificacao",
+  "adoptionStage": "Entrada por tecnologia basica",
+  "technologyEntry": "Linha basica",
+  "adoptionDirective": "Converter entrada basica em trilha de adocao tecnologica",
+  "partner": "NOOA Tecnica",
+  "evolutionTrack": "Usar linha basica como porta de entrada e migrar para Auras/Auba/Tritter",
+  "governance": "Acompanhamento comercial por marco",
+  "assistStage": {
+    "current": "Corrigir",
+    "progress": 64,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "done"
+      },
+      {
+        "name": "Corrigir",
+        "status": "current"
+      },
+      {
+        "name": "Evoluir",
+        "status": "next"
+      }
+    ]
+  },
+  "approvalStatus": "Plano tecnico simples",
+  "followUp": {
+    "cadence": "Quinzenal ate prova de valor",
+    "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+    "nextAction": "Definir protocolo mensuravel e criterio de continuidade"
+  },
+  "clientReport": {
+    "title": "Evolution Report | USINA PITANGUEIRAS",
+    "thesis": "USINA PITANGUEIRAS: Potencial latente com entrada por tecnologia basica. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Definir protocolo mensuravel e criterio de continuidade",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}

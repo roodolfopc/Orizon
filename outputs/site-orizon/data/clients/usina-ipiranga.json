@@ -1,0 +1,43 @@
+{
+  "id": "usina-ipiranga",
+  "name": "USINA IPIRANGA",
+  "level": "LEGACY",
+  "areaHa": 200000,
+  "potential": "Alto potencial estruturante",
+  "adoptionStage": "Prova de valor assistida",
+  "technologyEntry": "Portfolio core",
+  "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+  "partner": "NOOA Tecnica",
+  "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+  "governance": "Acompanhamento comercial por marco",
+  "assistStage": {
+    "current": "Corrigir",
+    "progress": 64,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "done"
+      },
+      {
+        "name": "Corrigir",
+        "status": "current"
+      },
+      {
+        "name": "Evoluir",
+        "status": "next"
+      }
+    ]
+  },
+  "approvalStatus": "Comite executivo",
+  "followUp": {
+    "cadence": "Mensal executivo + semanal operacional",
+    "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+    "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+  },
+  "clientReport": {
+    "title": "Evolution Report | USINA IPIRANGA",
+    "thesis": "USINA IPIRANGA: Alto potencial estruturante com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}

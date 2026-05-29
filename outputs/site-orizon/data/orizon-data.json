@@ -1,0 +1,3869 @@
+{
+  "generatedAt": "2026-05-27T19:14:33.348428+00:00",
+  "sourceWorkbook": "outputs/programa-orizon/Programa_Orizon_Compilado.xlsx",
+  "executive": {
+    "clientCount": 45,
+    "areaTotalHa": 3956005,
+    "pipelinePotential": 13458200.0,
+    "scoreAverage": 66.71,
+    "creditRecommended": 550125.5,
+    "primePlusClients": 23,
+    "immediateQueue": 14,
+    "anchorClient": "Grupo Raizen",
+    "levels": {
+      "START": {
+        "clients": 17,
+        "credit": 1840.0
+      },
+      "FLOW": {
+        "clients": 5,
+        "credit": 28840.0
+      },
+      "PRIME": {
+        "clients": 9,
+        "credit": 116133.0
+      },
+      "LEGACY": {
+        "clients": 14,
+        "credit": 403312.5
+      }
+    }
+  },
+  "clients": [
+    {
+      "id": "grupo-tereos",
+      "rank": 1,
+      "name": "GRUPO TEREOS",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 100,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 190000,
+      "canaPlanta": 28500,
+      "canaSoca": 161500,
+      "situation": "campo interno com Auras concluído, mas sem resultado compartilhado. Protocolo Auba em andamento.",
+      "proposedAction": "Fazer proposta de uso de Auras em todas as unidades em áreas semi-comerciais (com acompanhamento de consultor externo)",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "GRUPO TEREOS: Alto potencial estruturante com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 25,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 11875.0,
+      "creditControl": {
+        "recommended": 11875.0,
+        "approvable": 8550.0,
+        "approved": 2907.0,
+        "pending": 5643.0,
+        "blocked": 3325.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-coruripe",
+      "rank": 2,
+      "name": "GRUPO CORURIPE",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 100,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 180000,
+      "canaPlanta": 27000,
+      "canaSoca": 153000,
+      "situation": "Campo GD instalado. Área de planejamento pra receber irrigação. 20 ha de padrão NOOA para plantio com possibildiade de vitrine tecnologica",
+      "proposedAction": "Acompanhamento da área instalada com pacote Auras e Auba em corte de soqueira e estreitamento do relacionamento. Propor: Treinamento de pragas e doenças com Alexandre Sene e Alvaro Sanguino",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "GRUPO CORURIPE: Alto potencial estruturante com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 25,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 24500.0,
+      "creditControl": {
+        "recommended": 24500.0,
+        "approvable": 17640.0,
+        "approved": 5997.6,
+        "pending": 11642.4,
+        "blocked": 6860.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-delta",
+      "rank": 3,
+      "name": "USINA DELTA",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 97,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 120000,
+      "canaPlanta": 18000,
+      "canaSoca": 102000,
+      "situation": "Aguardando resultados de áreas com Auras e entender resultados finais de Bovettus e Mettus",
+      "proposedAction": "Acompanhar resultados finais da colheita dos campos. Levar equipe técnica a visita na NOOA",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Expansao estrategica",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "USINA DELTA: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 22,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 27625.0,
+      "creditControl": {
+        "recommended": 27625.0,
+        "approvable": 19890.0,
+        "approved": 6762.6,
+        "pending": 13127.4,
+        "blocked": 7735.0
+      },
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Evidencia tecnica e tese de expansao para proxima safra",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-cocal",
+      "rank": 4,
+      "name": "GRUPO COCAL",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 97,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 140000,
+      "canaPlanta": 21000,
+      "canaSoca": 119000,
+      "situation": "cliente com aquisição comercial Mettus. Protocolo externo de Auba (breve finalização)",
+      "proposedAction": "Pendente resultados Protocolo Auba (Fatec) e tentar validar proposta semi-comercial do Auras + Nerut. Continuidade com o Mettus",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "GRUPO COCAL: Alto potencial estruturante com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 22,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 72625.0,
+      "creditControl": {
+        "recommended": 72625.0,
+        "approvable": 52290.0,
+        "approved": 17778.6,
+        "pending": 34511.4,
+        "blocked": 20335.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-pedra",
+      "rank": 5,
+      "name": "GRUPO PEDRA",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 97,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 95000,
+      "canaPlanta": 14250,
+      "canaSoca": 80750,
+      "situation": "áreas comerciais de Bovettus e Auras. Campo Artefato",
+      "proposedAction": "Ampliar relacionamento nas diversas esferas (técnica e suprimentos) visando participar das cotações. Reaproximar Ipê e fortalecer relacionamento com a Cedro. Proposta de pacote integrado para participar minimamente comercialmente",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "GRUPO PEDRA: Alto potencial estruturante com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 22,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 30562.5,
+      "creditControl": {
+        "recommended": 30562.5,
+        "approvable": 22005.0,
+        "approved": 7481.7,
+        "pending": 14523.3,
+        "blocked": 8557.5
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-raizen",
+      "rank": 6,
+      "name": "GRUPO RAÍZEN",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 95,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 1000000,
+      "canaPlanta": 150000,
+      "canaSoca": 850000,
+      "situation": "Resultados com AURAS positivo. Aguardando resultados com AUBA. Possilidade de repique de fungos.",
+      "proposedAction": "Estruturar piloto ORIZON LEGACY como cliente ancora: validacao tecnica 2026, contrato por janela operacional e evolucao plurianual com TCH no ano 1 e Mais Maquinas no ano 2.",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Piloto LEGACY Raizen",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Piloto enterprise LEGACY",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Governanca enterprise, validacao TCH e expansao plurianual",
+      "partner": "TCH ano 1 + Mais Maquinas ano 2",
+      "evolutionTrack": "Entrar por unidades-piloto, validar com TCH, padronizar e renovar em contrato plurianual",
+      "executiveSpecification": "GRUPO RAÍZEN: Ancora estrategica com piloto enterprise legacy. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 25,
+        "prioridade": 15,
+        "adocaoTecnica": 23,
+        "conversao": 12,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Abrir comite LEGACY e validar piloto governado",
+      "creditRecommended": 23625.0,
+      "creditControl": {
+        "recommended": 23625.0,
+        "approvable": 17010.0,
+        "approved": 5783.4,
+        "pending": 11226.6,
+        "blocked": 6615.0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Abrir comite LEGACY e validar piloto governado"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-viterra",
+      "rank": 7,
+      "name": "GRUPO VITERRA",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 93,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 50000,
+      "canaPlanta": 7500,
+      "canaSoca": 42500,
+      "situation": "Auras em áreas semi-comerciais. Bom alinhamento para aquisição de Auba. Campo a ser instalado Artefato",
+      "proposedAction": "Apresentar proposta comercial agressiva para fundo de Sulco com Auras e Nerut. Campo com Artefato. Conexão com a Fatec (trabalho Auba)",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Expansao estrategica",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "GRUPO VITERRA: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 28750.0,
+      "creditControl": {
+        "recommended": 28750.0,
+        "approvable": 20700.0,
+        "approved": 7038.0,
+        "pending": 13662.0,
+        "blocked": 8050.0
+      },
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Evidencia tecnica e tese de expansao para proxima safra",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-santa-adelia",
+      "rank": 8,
+      "name": "USINA SANTA ADELIA",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 93,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 50000,
+      "canaPlanta": 7500,
+      "canaSoca": 42500,
+      "situation": "Novas oportunidades. Protocolo de Sphenophorus para desenvolvimento. Cotações de Auras, Auba, Bovettus e Mettus",
+      "proposedAction": "Entender resultados finais da última venda. Auba e Auras. Estreitar relacionamento com agrícola.",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Expansao estrategica",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "USINA SANTA ADELIA: Alto potencial estruturante com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 54312.5,
+      "creditControl": {
+        "recommended": 54312.5,
+        "approvable": 39105.0,
+        "approved": 13295.7,
+        "pending": 25809.3,
+        "blocked": 15207.5
+      },
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Evidencia tecnica e tese de expansao para proxima safra",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-uberaba",
+      "rank": 9,
+      "name": "USINA UBERABA",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 89,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 40000,
+      "canaPlanta": 6000,
+      "canaSoca": 34000,
+      "situation": "Áreas semi - comerciais - 200 ha de Auras",
+      "proposedAction": "Acompanhar áreas semi comerciais e intensificar interação",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Expansao estrategica",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "USINA UBERABA: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 34250.0,
+      "creditControl": {
+        "recommended": 34250.0,
+        "approvable": 24660.0,
+        "approved": 8384.4,
+        "pending": 16275.6,
+        "blocked": 9590.0
+      },
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Evidencia tecnica e tese de expansao para proxima safra",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-ipiranga",
+      "rank": 10,
+      "name": "USINA IPIRANGA",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 89,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 200000,
+      "canaPlanta": 30000,
+      "canaSoca": 170000,
+      "situation": "Áreas de AGD instaladas. Aguardando novas oportunidades para instalar novos ensaios.",
+      "proposedAction": "Acompanhamento do campo em corte de soqueira e buscar novas oportunidades para plantio em 26.",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "USINA IPIRANGA: Alto potencial estruturante com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 25,
+        "prioridade": 15,
+        "adocaoTecnica": 18,
+        "conversao": 13,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 13375.0,
+      "creditControl": {
+        "recommended": 13375.0,
+        "approvable": 9630.0,
+        "approved": 3274.2,
+        "pending": 6355.8,
+        "blocked": 3745.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-branco-peres",
+      "rank": 11,
+      "name": "USINA BRANCO PERES",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 89,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 30000,
+      "canaPlanta": 4500,
+      "canaSoca": 25500,
+      "situation": "área semi-comercial Auras e Auba (plantio)",
+      "proposedAction": "Resultados muito bons nos acompanhamentos de cana planta e soca, portifólio validado e proposta de valor entendida e valorizada pelo gerente agrícola. Próximo passo seria elaborar uma boa proposta comercial, de preferência envolvendo o apoio de Consultores externos (Nematicida). Proposta para soja Auba + Artefato",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "USINA BRANCO PERES: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 31812.5,
+      "creditControl": {
+        "recommended": 31812.5,
+        "approvable": 22905.0,
+        "approved": 7787.7,
+        "pending": 15117.3,
+        "blocked": 8907.5
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-aralco",
+      "rank": 12,
+      "name": "GRUPO ARALCO",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 89,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 30000,
+      "canaPlanta": 4500,
+      "canaSoca": 25500,
+      "situation": "área comercial Auras (plantio). Trabalho com Artefato e boas perspectivas comerciais. Precisamos suplementar com consultorias de apoio para fidelização do cliente",
+      "proposedAction": "Aproximação, explorando os resultados positivos com Auras e solicitando novas oportunidades comerciais com o Auba e Artefato, baseado em suporte e consultorias externas de apoio",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Expansao estrategica",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "GRUPO ARALCO: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 30250.0,
+      "creditControl": {
+        "recommended": 30250.0,
+        "approvable": 21780.0,
+        "approved": 7405.2,
+        "pending": 14374.8,
+        "blocked": 8470.0
+      },
+      "assistStage": {
+        "current": "Evoluir",
+        "progress": 88,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "done"
+          },
+          {
+            "name": "Evoluir",
+            "status": "current"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Evidencia tecnica e tese de expansao para proxima safra",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-cmaa",
+      "rank": 13,
+      "name": "Grupo CMAA",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 86,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 120000,
+      "canaPlanta": 18000,
+      "canaSoca": 102000,
+      "situation": "Áreas semi comerciais - Cliente adquiriu 500 ha para teste AURAS - 200 ha de AUBA Trabalhar com resultados obtidos a partir de compras passadas",
+      "proposedAction": "Monitoramento através de Software parceiro GeoData em busca de protocolos personalizados para eficácia de bionematicida e complexo de murcha",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "Grupo CMAA: Potencial latente com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 22,
+        "prioridade": 15,
+        "adocaoTecnica": 21,
+        "conversao": 10,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 3562.5,
+      "creditControl": {
+        "recommended": 3562.5,
+        "approvable": 2565.0,
+        "approved": 872.1,
+        "pending": 1692.9,
+        "blocked": 997.5
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-california",
+      "rank": 14,
+      "name": "USINA CALIFÓRNIA",
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "score": 85,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 20000,
+      "canaPlanta": 3000,
+      "canaSoca": 17000,
+      "situation": "cliente ativo com área comercial de protocolo completo em soqueira",
+      "proposedAction": "Precisamos aproximar mais da gerência, que é muito ligada com multinacionais de químico, o que dificulta o acesso. Maior oportunidade em soqueira. Cliente tem oportunidades de compras no segundo semestre",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.25,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "USINA CALIFÓRNIA: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 15,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 1 - plano executivo imediato",
+      "nextDecision": "Designar dono, agenda executiva e plano PRIME/LEGACY",
+      "creditRecommended": 16187.5,
+      "creditControl": {
+        "recommended": 16187.5,
+        "approvable": 11655.0,
+        "approved": 3962.7,
+        "pending": 7692.3,
+        "blocked": 4532.5
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Comite executivo",
+        "authority": "Diretoria + comercial + tecnico",
+        "rule": "Plano executivo, governanca mensal e assinatura por fase."
+      },
+      "followUp": {
+        "cadence": "Mensal executivo + semanal operacional",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Designar dono, agenda executiva e plano PRIME/LEGACY"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-alcon",
+      "rank": 15,
+      "name": "USINA ALCON",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 83,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 15000,
+      "canaPlanta": 2250,
+      "canaSoca": 12750,
+      "situation": "Cliente utilizou pacote NOOA. Auras, Auba e Tritter. Buscar novas oportunidades para com biofungicida",
+      "proposedAction": "Fazer visita as áreas semi-comerciais e entender melhor o manejo do cliente.",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "USINA ALCON: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 15,
+        "adocaoTecnica": 25,
+        "conversao": 13,
+        "fitOrizon": 20
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 21750.0,
+      "creditControl": {
+        "recommended": 21750.0,
+        "approvable": 12615.0,
+        "approved": 4289.1,
+        "pending": 8325.9,
+        "blocked": 9135.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-alta-mogiana",
+      "rank": 16,
+      "name": "USINA ALTA MOGIANA",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 82,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 70000,
+      "canaPlanta": 10500,
+      "canaSoca": 59500,
+      "situation": "área semi-comercial de Auras em plantio e soqueira. Campo Artefato",
+      "proposedAction": "Área soqueira colhida com resultados positivos. Movimento de abrir oportunidades com Nerut junto ao Auras e Artefato.",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "USINA ALTA MOGIANA: Potencial de conversao com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 15,
+        "adocaoTecnica": 18,
+        "conversao": 13,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 9250.0,
+      "creditControl": {
+        "recommended": 9250.0,
+        "approvable": 5365.0,
+        "approved": 1824.1,
+        "pending": 3540.9,
+        "blocked": 3885.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-batatais",
+      "rank": 17,
+      "name": "USINA BATATAIS",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 81,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 67000,
+      "canaPlanta": 10050,
+      "canaSoca": 56950,
+      "situation": "Mudanças na gerência. Novo relacionamento",
+      "proposedAction": "Entender como está o andamento dos protocolos instalados, na gestão do Edson",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "USINA BATATAIS: Potencial latente com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 15,
+        "adocaoTecnica": 18,
+        "conversao": 12,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 4112.5,
+      "creditControl": {
+        "recommended": 4112.5,
+        "approvable": 2385.25,
+        "approved": 810.99,
+        "pending": 1574.26,
+        "blocked": 1727.25
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-colombo",
+      "rank": 18,
+      "name": "GRUPO COLOMBO",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 79,
+      "priority": "Média",
+      "owner": "MARCIA",
+      "areaHa": 60000,
+      "canaPlanta": 9000,
+      "canaSoca": 51000,
+      "situation": "campos Auras colhidos com resultados não satisfatórios",
+      "proposedAction": "Estreitar relacionamento técnico e comercial com o cliente e mapear novas possibilidades em 2026. Refazer campos AGD. Copmpras recorrentes durante o ano.",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "GRUPO COLOMBO: Potencial latente com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 10,
+        "adocaoTecnica": 21,
+        "conversao": 12,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 3278.0,
+      "creditControl": {
+        "recommended": 3278.0,
+        "approvable": 1901.24,
+        "approved": 646.42,
+        "pending": 1254.82,
+        "blocked": 1376.76
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-santa-terezinha",
+      "rank": 19,
+      "name": "GRUPO SANTA TEREZINHA",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 78,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 130000,
+      "canaPlanta": 19500,
+      "canaSoca": 110500,
+      "situation": "Acompanhamento e fechamento de áreas com Auras em plantio e soqueira. Buscar novas oportunidades junto ao grupo",
+      "proposedAction": "Áreas semi-comerciais dos ensaios conduzidos com o Auras e trazer a eficiência nematoides do ensaio com o Auba, através do Alexandre Sene",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Entrada por linha basica",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica + consultoria externa",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "GRUPO SANTA TEREZINHA: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 22,
+        "prioridade": 5,
+        "adocaoTecnica": 25,
+        "conversao": 8,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 16550.0,
+      "creditControl": {
+        "recommended": 16550.0,
+        "approvable": 9599.0,
+        "approved": 3263.66,
+        "pending": 6335.34,
+        "blocked": 6951.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-cerradao",
+      "rank": 20,
+      "name": "USINA CERRADÃO",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 76,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 80000,
+      "canaPlanta": 12000,
+      "canaSoca": 68000,
+      "situation": "Protocolo instalado, com manejo NOOA - Auras/Auba/Artefato. Acompanhamento de resultados",
+      "proposedAction": "Cliente multiplica Auras, buscar entender oportunidade para venda com valores mais agressivos",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica + consultoria externa",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "USINA CERRADÃO: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 5,
+        "adocaoTecnica": 25,
+        "conversao": 10,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 23100.0,
+      "creditControl": {
+        "recommended": 23100.0,
+        "approvable": 13398.0,
+        "approved": 4555.32,
+        "pending": 8842.68,
+        "blocked": 9702.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-lins",
+      "rank": 21,
+      "name": "USINA LINS",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 75,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 40000,
+      "canaPlanta": 6000,
+      "canaSoca": 50000,
+      "situation": "campo Auras e Tritter finalizado, aguardando divulgação resultados pela usina. Protocolo Auba em andamento.",
+      "proposedAction": "Finalização dos trabalhos para melhor evolução comercial. Mapear oportunidade de fungos entomopatogênicos e possibilidade de área semi-comercial Auras",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "USINA LINS: Potencial de conversao com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 15,
+        "adocaoTecnica": 18,
+        "conversao": 10,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 3812.5,
+      "creditControl": {
+        "recommended": 3812.5,
+        "approvable": 2211.25,
+        "approved": 751.83,
+        "pending": 1459.42,
+        "blocked": 1601.25
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-cofco",
+      "rank": 22,
+      "name": "GRUPO COFCO",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 74,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 90000,
+      "canaPlanta": 13500,
+      "canaSoca": 76500,
+      "situation": "Protocolo com Tritter finalizado sem resultado positivo. Protocolo Auba concluído, produto não validado por questões técnicas da Usina. Protocolo Auras em andamento. Protocolo Bovettus em andamento.",
+      "proposedAction": "Tentar reverter exclusão do Auba da homologação recém-finalizada. Proposta comercial agressiva com Bovettus e Mettus (reais possibilidades de negócio aturais). Acompanhar de perto campo de Auras com Agrocomciência",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Conversao assistida",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Entrada por tecnologia basica",
+      "technologyEntry": "Linha basica",
+      "adoptionDirective": "Converter entrada basica em trilha de adocao tecnologica",
+      "partner": "TCH + NOOA Tecnica",
+      "evolutionTrack": "Usar linha basica como porta de entrada e migrar para Auras/Auba/Tritter",
+      "executiveSpecification": "GRUPO COFCO: Alto potencial estruturante com entrada por tecnologia basica. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Plano executivo e rotina mensal",
+      "scoreBreakdown": {
+        "porte": 22,
+        "prioridade": 15,
+        "adocaoTecnica": 13,
+        "conversao": 12,
+        "fitOrizon": 12
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 26250.0,
+      "creditControl": {
+        "recommended": 26250.0,
+        "approvable": 15225.0,
+        "approved": 5176.5,
+        "pending": 10048.5,
+        "blocked": 11025.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-estiva",
+      "rank": 23,
+      "name": "USINA ESTIVA",
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "score": 72,
+      "priority": "Média",
+      "owner": "MARCIA",
+      "areaHa": 30000,
+      "canaPlanta": 4500,
+      "canaSoca": 25500,
+      "situation": "campo de Auras em plantio. Campo Bovettus",
+      "proposedAction": "Estreitar relacionamento com cliente e entender melhor as oportunidades com o planejamento. Propor trabalho em vinhaça localizada (já bem avançado lá)",
+      "governanceStatus": "Plano executivo obrigatorio",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.15,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "USINA ESTIVA: Potencial de conversao com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 10,
+        "adocaoTecnica": 18,
+        "conversao": 12,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 2 - conversao assistida 30 dias",
+      "nextDecision": "Converter oportunidade em proposta com mix core e marco tecnico",
+      "creditRecommended": 8030.0,
+      "creditControl": {
+        "recommended": 8030.0,
+        "approvable": 4657.4,
+        "approved": 1583.52,
+        "pending": 3073.88,
+        "blocked": 3372.6
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Aprovacao gerencial",
+        "authority": "Gerencia comercial + tecnico",
+        "rule": "Plano tecnico, mix core e indicador de resultado."
+      },
+      "followUp": {
+        "cadence": "Mensal com gestor + semanal comercial",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Converter oportunidade em proposta com mix core e marco tecnico"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-cafealcool",
+      "rank": 24,
+      "name": "USINA CAFEALCOOL",
+      "level": "FLOW",
+      "sourceLevel": "FLOW",
+      "score": 66,
+      "priority": "Média",
+      "owner": "MARCIA",
+      "areaHa": 20000,
+      "canaPlanta": 3000,
+      "canaSoca": 17000,
+      "situation": "área semi-comercial Auras e campo de Auba",
+      "proposedAction": "Reestabelecer vínculo, cliente fidelizado Canavitta. Restringiu o acesso após rompimento com o Agente",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.05,
+      "potential": "Potencial em qualificacao",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "USINA CAFEALCOOL: Potencial de conversao com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 10,
+        "adocaoTecnica": 18,
+        "conversao": 10,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 3 - prova de valor 60 dias",
+      "nextDecision": "Definir protocolo mensuravel e criterio de continuidade",
+      "creditRecommended": 8360.0,
+      "creditControl": {
+        "recommended": 8360.0,
+        "approvable": 3511.2,
+        "approved": 421.34,
+        "pending": 3089.86,
+        "blocked": 4848.8
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Plano tecnico simples",
+        "authority": "Comercial + tecnico",
+        "rule": "Prova de valor com criterio de continuidade."
+      },
+      "followUp": {
+        "cadence": "Quinzenal ate prova de valor",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Definir protocolo mensuravel e criterio de continuidade"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-itajobi",
+      "rank": 25,
+      "name": "GRUPO ITAJOBI",
+      "level": "FLOW",
+      "sourceLevel": "FLOW",
+      "score": 66,
+      "priority": "Baixa",
+      "owner": "MARCIA",
+      "areaHa": 20000,
+      "canaPlanta": 3000,
+      "canaSoca": 17000,
+      "situation": "campos desenvolvimento Auras e Auba finalizados",
+      "proposedAction": "Entender melhor como ficará a configuração de time do grupo e resgatar os trabalhos realizados a fim de dar continuidade em âmbito comercial",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Entrada por linha basica",
+      "maturityFactor": 1.05,
+      "potential": "Potencial em qualificacao",
+      "adoptionStage": "Escala de tecnologia",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica + consultoria externa",
+      "evolutionTrack": "Consolidar produto validado, ampliar mix core e formalizar plano PRIME/LEGACY",
+      "executiveSpecification": "GRUPO ITAJOBI: Potencial de escala com escala de tecnologia. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 5,
+        "adocaoTecnica": 25,
+        "conversao": 8,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 3 - prova de valor 60 dias",
+      "nextDecision": "Usar linha basica como porta de entrada para portfolio core",
+      "creditRecommended": 11100.0,
+      "creditControl": {
+        "recommended": 11100.0,
+        "approvable": 4662.0,
+        "approved": 559.44,
+        "pending": 4102.56,
+        "blocked": 6438.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Plano tecnico simples",
+        "authority": "Comercial + tecnico",
+        "rule": "Prova de valor com criterio de continuidade."
+      },
+      "followUp": {
+        "cadence": "Quinzenal ate prova de valor",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Usar linha basica como porta de entrada para portfolio core"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-da-mata",
+      "rank": 26,
+      "name": "USINA DA MATA",
+      "level": "FLOW",
+      "sourceLevel": "FLOW",
+      "score": 66,
+      "priority": "Baixa",
+      "owner": "MARCIA",
+      "areaHa": 50000,
+      "canaPlanta": 7500,
+      "canaSoca": 42500,
+      "situation": "campos Auras interno em andamento. Campo Auba com Consultoria",
+      "proposedAction": "Dependente dos resultados dos protocolos externos instalados.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.05,
+      "potential": "Potencial em qualificacao",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "USINA DA MATA: Potencial de conversao com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 5,
+        "adocaoTecnica": 18,
+        "conversao": 7,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 3 - prova de valor 60 dias",
+      "nextDecision": "Definir protocolo mensuravel e criterio de continuidade",
+      "creditRecommended": 2650.0,
+      "creditControl": {
+        "recommended": 2650.0,
+        "approvable": 1113.0,
+        "approved": 133.56,
+        "pending": 979.44,
+        "blocked": 1537.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Plano tecnico simples",
+        "authority": "Comercial + tecnico",
+        "rule": "Prova de valor com criterio de continuidade."
+      },
+      "followUp": {
+        "cadence": "Quinzenal ate prova de valor",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Definir protocolo mensuravel e criterio de continuidade"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-pitangueiras",
+      "rank": 27,
+      "name": "USINA PITANGUEIRAS",
+      "level": "FLOW",
+      "sourceLevel": "FLOW",
+      "score": 61,
+      "priority": "Alta",
+      "owner": "RODOLFO",
+      "areaHa": 20000,
+      "canaPlanta": 3000,
+      "canaSoca": 17000,
+      "situation": "Campo instalado em plantio 25. Aguardando colheita para novos tratamentos.",
+      "proposedAction": "Acompanhamento da área de campo com Auras instalado.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.05,
+      "potential": "Potencial em qualificacao",
+      "adoptionStage": "Entrada por tecnologia basica",
+      "technologyEntry": "Linha basica",
+      "adoptionDirective": "Converter entrada basica em trilha de adocao tecnologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Usar linha basica como porta de entrada e migrar para Auras/Auba/Tritter",
+      "executiveSpecification": "USINA PITANGUEIRAS: Potencial latente com entrada por tecnologia basica. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 15,
+        "adocaoTecnica": 14,
+        "conversao": 10,
+        "fitOrizon": 12
+      },
+      "queue": "Fila 3 - prova de valor 60 dias",
+      "nextDecision": "Definir protocolo mensuravel e criterio de continuidade",
+      "creditRecommended": 1750.0,
+      "creditControl": {
+        "recommended": 1750.0,
+        "approvable": 735.0,
+        "approved": 88.2,
+        "pending": 646.8,
+        "blocked": 1015.0
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Plano tecnico simples",
+        "authority": "Comercial + tecnico",
+        "rule": "Prova de valor com criterio de continuidade."
+      },
+      "followUp": {
+        "cadence": "Quinzenal ate prova de valor",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Definir protocolo mensuravel e criterio de continuidade"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-clealco",
+      "rank": 28,
+      "name": "GRUPO CLEALCO",
+      "level": "FLOW",
+      "sourceLevel": "FLOW",
+      "score": 60,
+      "priority": "Baixa",
+      "owner": "MARCIA",
+      "areaHa": 40000,
+      "canaPlanta": 6000,
+      "canaSoca": 34000,
+      "situation": "campo Auras em soqueira finalizado com resultado pouco expressivo",
+      "proposedAction": "Estreitar relacionamento técnico e comercial, propor avanço do trabalho semi-comercial com Auras e Nerut. Avanço depende de conexão com a consultoria Planiagro que tem definido os manejos adotados",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 1.05,
+      "potential": "Potencial em qualificacao",
+      "adoptionStage": "Prova de valor assistida",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "NOOA Tecnica",
+      "evolutionTrack": "Medir resultado, transformar protocolo em compra recorrente e evoluir para FLOW/PRIME",
+      "executiveSpecification": "GRUPO CLEALCO: Potencial latente com prova de valor assistida. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 5,
+        "adocaoTecnica": 14,
+        "conversao": 9,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 3 - prova de valor 60 dias",
+      "nextDecision": "Definir protocolo mensuravel e criterio de continuidade",
+      "creditRecommended": 4980.0,
+      "creditControl": {
+        "recommended": 4980.0,
+        "approvable": 2091.6,
+        "approved": 250.99,
+        "pending": 1840.61,
+        "blocked": 2888.4
+      },
+      "assistStage": {
+        "current": "Corrigir",
+        "progress": 64,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "done"
+          },
+          {
+            "name": "Corrigir",
+            "status": "current"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Plano tecnico simples",
+        "authority": "Comercial + tecnico",
+        "rule": "Prova de valor com criterio de continuidade."
+      },
+      "followUp": {
+        "cadence": "Quinzenal ate prova de valor",
+        "trigger": "Plano tecnico, treinamento ou correcao em andamento",
+        "nextAction": "Definir protocolo mensuravel e criterio de continuidade"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "bp-bioenergy",
+      "rank": 29,
+      "name": "BP BIOENERGY",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 51,
+      "priority": "Média",
+      "owner": "MARCIA",
+      "areaHa": 200000,
+      "canaPlanta": 30000,
+      "canaSoca": 170000,
+      "situation": "protocolo Agrocomciência (Auras) CAV finalizado (aguardando relatório), protocolo Bettus concluído porém não caminhou comercialmente por questões técnicas da operação do BT no grupo (mas protocolo foi positivo). SEM PRODUTO VALIDADO PARA COTAÇÃO 25/26",
+      "proposedAction": "Aproximação comercial com suprimentos para participação de cotações Bovettus, Mettus e Aufix",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "BP BIOENERGY: Alto potencial estruturante com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 25,
+        "prioridade": 10,
+        "adocaoTecnica": 4,
+        "conversao": 4,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "alcoeste",
+      "rank": 30,
+      "name": "ALCOESTE",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 50,
+      "priority": "Baixa",
+      "owner": "MARCIA",
+      "areaHa": 33000,
+      "canaPlanta": 4950,
+      "canaSoca": 28050,
+      "situation": "trabalho concluído sem conversão comercial. Cliente recluso não quis nos receber. Em dificuldades financeiras",
+      "proposedAction": "Reaproximação gerência, entendimento situação financeira do cliente (proposta de prazo a ser elaborada). Trabalhos em soqueira com Nematicidas",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Protocolo e prova de valor",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Reaproximacao controlada",
+      "technologyEntry": "Portfolio core",
+      "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Retomar acesso, entender restricao financeira e limitar credito ate novo marco tecnico",
+      "executiveSpecification": "ALCOESTE: Potencial latente com reaproximacao controlada. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 5,
+        "adocaoTecnica": 4,
+        "conversao": 9,
+        "fitOrizon": 18
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 1840.0,
+      "creditControl": {
+        "recommended": 1840.0,
+        "approvable": 331.2,
+        "approved": 39.74,
+        "pending": 291.46,
+        "blocked": 1508.8
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-vale-do-verdao",
+      "rank": 31,
+      "name": "GRUPO VALE DO VERDÃO",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 48,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 155000,
+      "canaPlanta": 23250,
+      "canaSoca": 131750,
+      "situation": "Retomar conversa, Alinhamento prévio com antigo CDM GOIAS",
+      "proposedAction": "Realinhar contato feito pelo antigo CDM GO",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Alto potencial estruturante",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "GRUPO VALE DO VERDÃO: Alto potencial estruturante com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 25,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "grupo-cmnp",
+      "rank": 32,
+      "name": "GRUPO CMNP",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 47,
+      "priority": "Alta",
+      "owner": "MARCIA",
+      "areaHa": 50000,
+      "canaPlanta": 7500,
+      "canaSoca": 42500,
+      "situation": "área semi-comercial de Auras em plantio com resultado pouco expressivo",
+      "proposedAction": "Reaproximação do cliente para tentar participar das cotações de produtos da linha básica como fungos",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "GRUPO CMNP: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 15,
+        "adocaoTecnica": 1,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-santa-isabel",
+      "rank": 33,
+      "name": "USINA SANTA ISABEL",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 47,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 90000,
+      "canaPlanta": 13500,
+      "canaSoca": 76500,
+      "situation": "Cliente com baixa utilização de biológico, buscar nova oportunidade para instalação de protocolos com Auras.",
+      "proposedAction": "Estreitar relacionamento para entrada com novos protocolos na safra 26.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA SANTA ISABEL: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 22,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 7,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-cerradinho-bio",
+      "rank": 34,
+      "name": "USINA CERRADINHO BIO",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 45,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 115000,
+      "canaPlanta": 17250,
+      "canaSoca": 97750,
+      "situation": "Em prospecção inicial. Aguardando para instalação de protocolo com pacote NOOA",
+      "proposedAction": "Acompanhamento dos campos previstos para instalação ainda em 25.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Potencial de escala",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA CERRADINHO BIO: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 22,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-sao-luis-ferrari",
+      "rank": 35,
+      "name": "USINA SÃO LUIS/FERRARI",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 43,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 50000,
+      "canaPlanta": 7500,
+      "canaSoca": 42500,
+      "situation": "Em prospecção inicial. Cliente com instalação de biofábrica.",
+      "proposedAction": "Entender quais microorganismos estão sendo multiplicados e buscar fazer contra propostas com protocolos.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA SÃO LUIS/FERRARI: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 7,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-sao-manoel",
+      "rank": 36,
+      "name": "USINA SÃO MANOEL",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 41,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 60000,
+      "canaPlanta": 9000,
+      "canaSoca": 51000,
+      "situation": "Cliente com pouco uso de biológicos. Possibilidade de Auras e Auba somente.",
+      "proposedAction": "Aproximação para novas oportunidades na safra 26.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA SÃO MANOEL: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 18,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-viralcool",
+      "rank": 37,
+      "name": "USINA VIRALCOOL",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 39,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 40000,
+      "canaPlanta": 6000,
+      "canaSoca": 34000,
+      "situation": "Em prospecção inicial.",
+      "proposedAction": "Estreitar relacionamento para entrada com novos protocolos na safra 26.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA VIRALCOOL: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 7,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-sao-luiz",
+      "rank": 38,
+      "name": "USINA SÃO LUIZ",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 37,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 35000,
+      "canaPlanta": 5250,
+      "canaSoca": 29750,
+      "situation": "Em prospecção inicial.",
+      "proposedAction": "Estreitar relação. Buscar novas oportunidades para instalação de protocolos.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA SÃO LUIZ: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-sonora",
+      "rank": 39,
+      "name": "USINA SONORA",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 37,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 30000,
+      "canaPlanta": 4500,
+      "canaSoca": 25500,
+      "situation": "Em prospecção inicial. Aguardando para instalação de protocolo com pacote NOOA",
+      "proposedAction": "Acompanhamento dos campos previstos para instalação ainda em 25.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA SONORA: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-bevap",
+      "rank": 40,
+      "name": "USINA BEVAP",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 37,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 32000,
+      "canaPlanta": 4800,
+      "canaSoca": 27200,
+      "situation": "em prospecção inicial",
+      "proposedAction": "Entender as possibilidades de manejo",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA BEVAP: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 14,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-pirassununga-51",
+      "rank": 41,
+      "name": "USINA PIRASSUNUNGA 51",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 35,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 9000,
+      "canaPlanta": 1350,
+      "canaSoca": 7650,
+      "situation": "Nova gerência. Estreitar relacionamento e instalação de campos novos",
+      "proposedAction": "Propor instalação de campos novos, com foco em Auras e Auba.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA PIRASSUNUNGA 51: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 7,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-sao-domingos",
+      "rank": 42,
+      "name": "USINA SÃO DOMINGOS",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 33,
+      "priority": "Baixa",
+      "owner": "MARCIA",
+      "areaHa": 20000,
+      "canaPlanta": 3000,
+      "canaSoca": 17000,
+      "situation": "Retomar alinhamento.",
+      "proposedAction": "Instalação de novos protocolos de plantio em 26.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA SÃO DOMINGOS: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-sao-francisco",
+      "rank": 43,
+      "name": "USINA SÃO FRANCISCO",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 33,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 20000,
+      "canaPlanta": 3000,
+      "canaSoca": 17000,
+      "situation": "Cliente de cana orgânica mas com alta restrição a produtos. Necessidade de certificações.",
+      "proposedAction": "Resultados com Auras negativos. Entender novas oportunidades com o agrícola.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA SÃO FRANCISCO: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "usina-usiban",
+      "rank": 44,
+      "name": "USINA USIBAN",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 33,
+      "priority": "Baixa",
+      "owner": "RODOLFO",
+      "areaHa": 20000,
+      "canaPlanta": 3000,
+      "canaSoca": 17000,
+      "situation": "Em prospecção inicial. Protocolo de Auras instalado em 25.",
+      "proposedAction": "Acompanhamento do campo em corte de soqueira e buscar novas oportunidades para plantio em 26.",
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "USINA USIBAN: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 5,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    },
+    {
+      "id": "acessivel",
+      "rank": 45,
+      "name": "ACESSÍVEL",
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "score": 28,
+      "priority": null,
+      "owner": "A definir",
+      "areaHa": 5,
+      "canaPlanta": 0.2083,
+      "canaSoca": 0,
+      "situation": null,
+      "proposedAction": null,
+      "governanceStatus": "Prospeccao controlada",
+      "businessModel": "Prospeccao controlada",
+      "maturityFactor": 0.85,
+      "potential": "Entrada ou reaproximacao controlada",
+      "adoptionStage": "Diagnostico e qualificacao",
+      "technologyEntry": "Diagnostico",
+      "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+      "partner": "Comercial + NOOA Tecnica",
+      "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+      "executiveSpecification": "ACESSÍVEL: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+      "governance": "Acompanhamento comercial por marco",
+      "scoreBreakdown": {
+        "porte": 10,
+        "prioridade": 0,
+        "adocaoTecnica": 5,
+        "conversao": 5,
+        "fitOrizon": 8
+      },
+      "queue": "Fila 4 - qualificacao sem investimento",
+      "nextDecision": "Reaproximar, qualificar dor operacional e acesso a decisor",
+      "creditRecommended": 0.0,
+      "creditControl": {
+        "recommended": 0,
+        "approvable": 0,
+        "approved": 0,
+        "pending": 0,
+        "blocked": 0
+      },
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "approval": {
+        "status": "Qualificacao controlada",
+        "authority": "Comercial responsavel",
+        "rule": "Sem investimento relevante antes de dor, acesso e decisor."
+      },
+      "followUp": {
+        "cadence": "Semanal ate qualificacao",
+        "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+        "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+      },
+      "productVolumes": {}
+    }
+  ],
+  "products": [
+    {
+      "product": "Auras",
+      "role": "Core estrategico",
+      "creditFactor": 0.05,
+      "currentValue": 221.0,
+      "doseHa": 0.25,
+      "estimatedRevenueHa": 55.25,
+      "creditPerUnit": 11.05,
+      "creditPerHa": 2.7625,
+      "usageRule": "Gera credito pleno; usar para carteira PRIME/LEGACY e expansao de portfolio.",
+      "eligible": true
+    },
+    {
+      "product": "Auba",
+      "role": "Core estrategico",
+      "creditFactor": 0.08,
+      "currentValue": 80.0,
+      "doseHa": 0.4,
+      "estimatedRevenueHa": 32.0,
+      "creditPerUnit": 6.4,
+      "creditPerHa": 2.5600000000000005,
+      "usageRule": "Gera credito pleno; base de recorrencia biologica e integracao operacional.",
+      "eligible": true
+    },
+    {
+      "product": "Nerut",
+      "role": "Estrutural B2B",
+      "creditFactor": 0.02,
+      "currentValue": 180.0,
+      "doseHa": 0.4,
+      "estimatedRevenueHa": 72.0,
+      "creditPerUnit": 3.6,
+      "creditPerHa": 1.4400000000000002,
+      "usageRule": "Credito intermediario; acelera prova tecnica e abre conversao.",
+      "eligible": true
+    },
+    {
+      "product": "Tritter",
+      "role": "Core estrategico",
+      "creditFactor": 0.06,
+      "currentValue": 180.0,
+      "doseHa": 0.2,
+      "estimatedRevenueHa": 36.0,
+      "creditPerUnit": 10.799999999999999,
+      "creditPerHa": 2.1599999999999997,
+      "usageRule": "Gera credito pleno quando compoe pacote de sanidade e protecao biologica.",
+      "eligible": true
+    },
+    {
+      "product": "Artefato",
+      "role": "Estrutural B2B",
+      "creditFactor": 0.02,
+      "currentValue": 70.0,
+      "doseHa": 0.3,
+      "estimatedRevenueHa": 21.0,
+      "creditPerUnit": 1.4000000000000001,
+      "creditPerHa": 0.42000000000000004,
+      "usageRule": "Credito de estrutura B2B; sustenta operacao sem virar desconto direto.",
+      "eligible": true
+    },
+    {
+      "product": "Bovettus",
+      "role": "Entrada/composicao",
+      "creditFactor": 0.02,
+      "currentValue": 90.0,
+      "doseHa": 0.15,
+      "estimatedRevenueHa": 13.5,
+      "creditPerUnit": 1.8,
+      "creditPerHa": 0.27,
+      "usageRule": "Faixa proxima ao B2B; abre porta para mix core sem desvalorizar entrada.",
+      "eligible": true
+    },
+    {
+      "product": "Mettus",
+      "role": "Entrada/composicao",
+      "creditFactor": 0.02,
+      "currentValue": 95.0,
+      "doseHa": 0.2,
+      "estimatedRevenueHa": 19.0,
+      "creditPerUnit": 1.9000000000000001,
+      "creditPerHa": 0.38000000000000006,
+      "usageRule": "Faixa proxima ao B2B; recorrencia e composicao de carteira.",
+      "eligible": true
+    },
+    {
+      "product": "Bettus",
+      "role": "Entrada/composicao",
+      "creditFactor": 0.02,
+      "currentValue": 30.0,
+      "doseHa": 1.0,
+      "estimatedRevenueHa": 30.0,
+      "creditPerUnit": 0.6,
+      "creditPerHa": 0.6,
+      "usageRule": "Faixa proxima ao B2B; composicao operacional com baixo valor unitario.",
+      "eligible": true
+    },
+    {
+      "product": "Aufix",
+      "role": "Estrutural B2B",
+      "creditFactor": 0.02,
+      "currentValue": 22.0,
+      "doseHa": 0.3,
+      "estimatedRevenueHa": 6.6,
+      "creditPerUnit": 0.44,
+      "creditPerHa": 0.132,
+      "usageRule": "Credito de estrutura B2B; apoio operacional e integracao de aplicacao.",
+      "eligible": true
+    }
+  ],
+  "policy": [
+    {
+      "level": "START",
+      "sourceLevel": "FOUNDATION",
+      "scoreRange": "0 a 54",
+      "capPercent": 0.02,
+      "purchaseRequirement": "Compra confirmada ou pedido firme",
+      "monthlyCap": 2000.0,
+      "liberableCredit": 0.0,
+      "usageTrigger": "Diagnostico, treinamento ou prova tecnica pequena",
+      "governance": "Acompanhamento comercial por marco",
+      "protectionRule": "Sem antecipacao; liberar apos compra ou pedido firme."
+    },
+    {
+      "level": "FLOW",
+      "sourceLevel": "FLOW",
+      "scoreRange": "55 a 69",
+      "capPercent": 0.03,
+      "purchaseRequirement": "Compra confirmada + plano tecnico simples",
+      "monthlyCap": 3000.0,
+      "liberableCredit": 0.0,
+      "usageTrigger": "Prova de valor e consolidacao de recorrencia",
+      "governance": "Dono comercial e follow-up mensal",
+      "protectionRule": "Credito limitado ao mix comprado no mes."
+    },
+    {
+      "level": "PRIME",
+      "sourceLevel": "PRIME",
+      "scoreRange": "70 a 84",
+      "capPercent": 0.045,
+      "purchaseRequirement": "Compra confirmada + mix core ou trilha de conversao",
+      "monthlyCap": 4500.0,
+      "liberableCredit": 0.0,
+      "usageTrigger": "Consultoria, TCH, laudo, treinamento e apoio tecnico",
+      "governance": "Plano executivo e rotina mensal",
+      "protectionRule": "Credito condicionado a marco tecnico e margem preservada."
+    },
+    {
+      "level": "LEGACY",
+      "sourceLevel": "LEGACY",
+      "scoreRange": "85 a 100 ou ancora",
+      "capPercent": 0.06,
+      "purchaseRequirement": "Compra confirmada + governanca executiva",
+      "monthlyCap": 6000.0,
+      "liberableCredit": 0.0,
+      "usageTrigger": "Success Cycle, TCH, Mais Maquinas e expansao plurianual",
+      "governance": "Comite mensal e plano por unidade/grupo",
+      "protectionRule": "Nao usar como rebate; liberar por fase e evidencia."
+    }
+  ],
+  "pipeline": [
+    {
+      "month": "JANEIRO",
+      "potential": 557262.5,
+      "share": 0.04140691177126213
+    },
+    {
+      "month": "FEVEREIRO",
+      "potential": 1114525.0,
+      "share": 0.08281382354252426
+    },
+    {
+      "month": "MARÇO",
+      "potential": 1114525.0,
+      "share": 0.08281382354252426
+    },
+    {
+      "month": "ABRIL",
+      "potential": 1114525.0,
+      "share": 0.08281382354252426
+    },
+    {
+      "month": "MAIO",
+      "potential": 557262.5,
+      "share": 0.04140691177126213
+    },
+    {
+      "month": "JUNHO",
+      "potential": 0.0,
+      "share": 0.0
+    },
+    {
+      "month": "JULHO",
+      "potential": 0.0,
+      "share": 0.0
+    },
+    {
+      "month": "AGOSTO",
+      "potential": 2250025.0,
+      "share": 0.16718617645747574
+    },
+    {
+      "month": "SETEMBRO",
+      "potential": 2250025.0,
+      "share": 0.16718617645747574
+    },
+    {
+      "month": "OUTUBRO",
+      "potential": 2250025.0,
+      "share": 0.16718617645747574
+    },
+    {
+      "month": "NOVEMBRO",
+      "potential": 2250025.0,
+      "share": 0.16718617645747574
+    },
+    {
+      "month": "DEZEMBRO",
+      "potential": 0.0,
+      "share": 0.0
+    }
+  ],
+  "partners": [
+    {
+      "name": "TCH Gestao Agricola",
+      "role": "Braco tecnico",
+      "when": "PRIME/LEGACY, validacao tecnica, auditoria, treinamento",
+      "deliverable": "Diagnostico, laudo, plano de correcao, evidencia de campo",
+      "recommendedLevel": "PRIME+"
+    },
+    {
+      "name": "Mais Maquinas",
+      "role": "Braco estrutural",
+      "when": "Quando a barreira for mecanizacao, aplicacao ou padrao operacional",
+      "deliverable": "Plano estrutural, recomendacao de aplicacao e melhoria operacional",
+      "recommendedLevel": "PRIME+"
+    },
+    {
+      "name": "NOOA Tecnica",
+      "role": "Biotecnologia",
+      "when": "Todos os niveis com potencial positivo",
+      "deliverable": "Protocolo biologico e leitura agronomica",
+      "recommendedLevel": "Todos"
+    },
+    {
+      "name": "Comercial",
+      "role": "Orquestracao",
+      "when": "Toda conta com potencial ou prioridade definida",
+      "deliverable": "Plano de conta, proposta e follow-up",
+      "recommendedLevel": "Todos"
+    },
+    {
+      "name": "Consultoria externa",
+      "role": "Prova de valor",
+      "when": "Clientes reclusos, resultados inconclusivos ou conversao complexa",
+      "deliverable": "Relatorio independente e ponte com decisores",
+      "recommendedLevel": "FLOW+"
+    },
+    {
+      "name": "Suprimentos cliente",
+      "role": "Conversao",
+      "when": "Contas com produto validado e oportunidade de cotacao",
+      "deliverable": "Acesso a cotacao e condicao saudavel",
+      "recommendedLevel": "PRIME+"
+    }
+  ],
+  "businessActions": [
+    {
+      "model": "Piloto LEGACY Raizen",
+      "objective": "Criar primeiro caso enterprise ORIZON",
+      "healthyPolicy": "Nao vender desconto; estruturar piloto com governanca, diagnostico TCH e trilha plurianual",
+      "nextAction": "Comite executivo + plano 2026/2027",
+      "indicator": "Contrato, areas validadas e expansao"
+    },
+    {
+      "model": "Expansao estrategica",
+      "objective": "Capturar potencial com portfolio integrado",
+      "healthyPolicy": "Investimento tecnico condicionado a plano executivo e mix core",
+      "nextAction": "Reuniao decisoria + proposta ORIZON PRIME/LEGACY",
+      "indicator": "Receita e hectares evoluidos"
+    },
+    {
+      "model": "Conversao assistida",
+      "objective": "Converter oportunidade relevante em recorrencia",
+      "healthyPolicy": "Apoio tecnico limitado por teto e evidencia de campo",
+      "nextAction": "Plano tecnico-comercial com responsavel e prazo",
+      "indicator": "Conversao e margem"
+    },
+    {
+      "model": "Entrada por linha basica",
+      "objective": "Abrir relacionamento sem diluir posicionamento premium",
+      "healthyPolicy": "Nao financiar desconto; usar linha basica como porta de entrada para AURAS/AUBA",
+      "nextAction": "Protocolo com trilha de upsell",
+      "indicator": "Mix estrategico"
+    },
+    {
+      "model": "Protocolo e prova de valor",
+      "objective": "Reduzir risco percebido",
+      "healthyPolicy": "Protocolo pequeno, mensuravel e com criterio de continuidade",
+      "nextAction": "Diagnostico + relatorio evolutivo",
+      "indicator": "Laudo e nova area"
+    },
+    {
+      "model": "Prospeccao controlada",
+      "objective": "Preservar foco comercial",
+      "healthyPolicy": "Sem investimento relevante antes de acesso, decisor e dor operacional clara",
+      "nextAction": "Reaproximacao e qualificacao",
+      "indicator": "Avanco de etapa"
+    }
+  ],
+  "scoreModel": {
+    "components": [
+      {
+        "component": "Porte operacional",
+        "maxWeight": 25.0,
+        "source": "Area ha",
+        "rule": "Mede tamanho da oportunidade agricola; areas maiores sobem na fila mesmo com CRM zerado."
+      },
+      {
+        "component": "Prioridade comercial",
+        "maxWeight": 15.0,
+        "source": "Prioridade",
+        "rule": "Alta, Media e Baixa preservam o julgamento comercial da carteira."
+      },
+      {
+        "component": "Adocao tecnica",
+        "maxWeight": 25.0,
+        "source": "Estagio + historico",
+        "rule": "Valoriza escala/prova de tecnologia e penaliza ausencia de validacao ou rejeicao tecnica."
+      },
+      {
+        "component": "Conversao operacional",
+        "maxWeight": 15.0,
+        "source": "Modelo + acao proposta",
+        "rule": "Mede proximidade de acesso, cotacao, decisor e clareza do proximo movimento."
+      },
+      {
+        "component": "Fit ORIZON",
+        "maxWeight": 20.0,
+        "source": "Tecnologia, parceiro e governanca",
+        "rule": "Valoriza portfolio core, TCH, Mais Maquinas e trilhas PRIME/LEGACY."
+      },
+      {
+        "component": "Total",
+        "maxWeight": 100.0,
+        "source": "Soma dos componentes",
+        "rule": "Score final usado para fila inicial e nivel ORIZON reformulado."
+      }
+    ],
+    "levels": [
+      {
+        "range": "85 a 100",
+        "level": "LEGACY",
+        "queue": "Fila 1",
+        "conduct": "Plano executivo imediato, dono comercial e governanca mensal."
+      },
+      {
+        "range": "70 a 84",
+        "level": "PRIME",
+        "queue": "Fila 2",
+        "conduct": "Conversao assistida em 30 dias com mix core e marco tecnico."
+      },
+      {
+        "range": "55 a 69",
+        "level": "FLOW",
+        "queue": "Fila 3",
+        "conduct": "Prova de valor em 60 dias com criterio de continuidade."
+      },
+      {
+        "range": "0 a 54",
+        "level": "START",
+        "queue": "Fila 4",
+        "conduct": "Qualificacao sem investimento relevante antes de dor, acesso e decisor."
+      }
+    ],
+    "topClients": [
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      },
+      {
+        "name": null,
+        "score": 0.0,
+        "level": "START",
+        "queue": null,
+        "areaHa": 0.0,
+        "priority": null,
+        "model": null,
+        "nextDecision": null
+      }
+    ]
+  },
+  "raizenPilot": {
+    "clientId": "grupo-raizen",
+    "decisions": [
+      {
+        "Bloco": "Posicionamento",
+        "Decisao": "Raizen como LEGACY PILOTO",
+        "Racional": "Porte, vitrine setorial e potencial de contrato de longo prazo",
+        "Como apresentar": "Nao e campanha; e plataforma de evolucao operacional",
+        "Gatilho": "Aprovacao diretoria NOOA",
+        "Indicador": "Patrocinio interno"
+      },
+      {
+        "Bloco": "Cotacao",
+        "Decisao": "Manter volume cheio",
+        "Racional": "Preco cheio ja enviado e deve preservar ambicao comercial",
+        "Como apresentar": "Apresentar como potencial de escala, nao como obrigacao de entrada",
+        "Gatilho": "Alinhamento suprimentos/agricola",
+        "Indicador": "Valor 30d/90d"
+      },
+      {
+        "Bloco": "Entrada 2026",
+        "Decisao": "Piloto executivo",
+        "Racional": "AURAS positivo e AUBA aguardando resultado exigem etapa de validacao",
+        "Como apresentar": "Areas semi-comerciais + governanca ORIZON",
+        "Gatilho": "Definir unidades-piloto",
+        "Indicador": "Hectares validados"
+      },
+      {
+        "Bloco": "Ano 1",
+        "Decisao": "TCH como braco tecnico",
+        "Racional": "Diagnostico e treinamento sustentam credibilidade e padronizacao",
+        "Como apresentar": "Diagnosticar, corrigir, mensurar",
+        "Gatilho": "Agenda tecnica mensal",
+        "Indicador": "Laudos e treinamentos"
+      },
+      {
+        "Bloco": "Ano 2",
+        "Decisao": "Mais Maquinas como evolucao estrutural",
+        "Racional": "Depois da validacao, ativar mecanizacao e sistemas de aplicacao",
+        "Como apresentar": "Coparticipacao ORIZON com teto e contrato",
+        "Gatilho": "Renovacao/expansao",
+        "Indicador": "Projetos implantados"
+      },
+      {
+        "Bloco": "Governanca",
+        "Decisao": "Comite ORIZON Raizen",
+        "Racional": "Conta enterprise exige rotina executiva",
+        "Como apresentar": "NOOA + Raizen + TCH + Mais Maquinas",
+        "Gatilho": "Reuniao mensal",
+        "Indicador": "Plano de acao"
+      },
+      {
+        "Bloco": "Politica",
+        "Decisao": "Credito operacional por fase",
+        "Racional": "Evita rebate e protege margem",
+        "Como apresentar": "Credito bruto vira budget elegivel, liberado por marcos",
+        "Gatilho": "Metas tecnicas cumpridas",
+        "Indicador": "ROI operacional"
+      },
+      {
+        "Bloco": "Saida esperada",
+        "Decisao": "Case enterprise",
+        "Racional": "Primeiro cliente ancora do ORIZON",
+        "Como apresentar": "Relatorio executivo de evolucao",
+        "Gatilho": "Resultados validados",
+        "Indicador": "Contrato plurianual"
+      }
+    ],
+    "budget": [
+      {
+        "Orcamento tecnico do piloto": "Diagnostico TCH",
+        "Quantidade": 60,
+        "Valor unitario": 900,
+        "Valor total": 54000,
+        "Ano": "2026",
+        "Observacao": "Diagnosticos por unidade/operacao critica"
+      },
+      {
+        "Orcamento tecnico do piloto": "Treinamento TCH",
+        "Quantidade": 24,
+        "Valor unitario": 5000,
+        "Valor total": 120000,
+        "Ano": "2026",
+        "Observacao": "Treinamento de equipes e padronizacao"
+      },
+      {
+        "Orcamento tecnico do piloto": "Subtotal TCH Ano 1",
+        "Quantidade": null,
+        "Valor unitario": null,
+        "Valor total": 174000,
+        "Ano": "2026",
+        "Observacao": "Base minima para piloto LEGACY"
+      },
+      {
+        "Orcamento tecnico do piloto": "Carteira Mais Maquinas",
+        "Quantidade": null,
+        "Valor unitario": null,
+        "Valor total": 317000,
+        "Ano": "2027",
+        "Observacao": "Projetos estruturais pos-validacao"
+      },
+      {
+        "Orcamento tecnico do piloto": "Participacao ORIZON Mais Maquinas",
+        "Quantidade": 0.5,
+        "Valor unitario": null,
+        "Valor total": 158500,
+        "Ano": "2027",
+        "Observacao": "Liberacao condicionada a contrato e metas"
+      },
+      {
+        "Orcamento tecnico do piloto": "Credito ponderado ref. volume cheio",
+        "Quantidade": null,
+        "Valor unitario": null,
+        "Valor total": 2979620,
+        "Ano": "Referencia",
+        "Observacao": "Nao liberar integralmente"
+      },
+      {
+        "Orcamento tecnico do piloto": "Saldo estrategico reservado",
+        "Quantidade": null,
+        "Valor unitario": null,
+        "Valor total": 2647120,
+        "Ano": "2027+",
+        "Observacao": "Usar apenas com expansao validada"
+      }
+    ]
+  }
+}

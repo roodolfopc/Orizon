@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" role="img" aria-labelledby="title desc">
+  <title id="title">ORIZON</title>
+  <desc id="desc">Logo ORIZON, plataforma de evolucao operacional.</desc>
+  <rect width="920" height="430" fill="#ffffff"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M165 150 C260 170 345 126 420 72 C470 36 500 33 470 78 C445 116 402 132 360 148 C300 171 235 183 154 178" stroke="#ff6b11" stroke-width="10"/>
+    <path d="M278 183 C392 191 458 166 548 152 C628 139 717 144 797 162" stroke="#e5a30d" stroke-width="12"/>
+    <path d="M330 201 C430 191 520 178 617 181 C700 183 764 196 832 219" stroke="#1d774e" stroke-width="12"/>
+    <path d="M395 125 C500 90 600 87 705 83 C775 80 823 72 866 61 C837 97 782 104 704 103 C604 101 492 112 395 125" fill="#ff7a13" stroke="none"/>
+    <path d="M470 77 C512 62 555 49 601 35 C575 72 537 90 483 105" stroke="#ff7a13" stroke-width="7"/>
+    <path d="M404 145 C464 141 528 146 584 162 C516 164 456 158 404 145" fill="#ff7a13" stroke="none"/>
+    <path d="M532 135 L545 98 L553 136 L584 113 L564 146 L600 147 L562 158 L584 190 L548 169 L535 205 L527 167 L493 190 L516 156 L478 152 Z" fill="#f6c64b" stroke="none" opacity=".55"/>
+  </g>
+  <text x="75" y="318" fill="#082b46" font-family="Arial Black, Montserrat, Arial, sans-serif" font-size="128" font-weight="900" letter-spacing="4">ORIZON</text>
+  <line x1="82" y1="355" x2="838" y2="355" stroke="#c38a61" stroke-width="2"/>
+  <text x="82" y="398" fill="#111827" font-family="Montserrat, Arial, sans-serif" font-size="24" font-weight="700" textLength="756" lengthAdjust="spacingAndGlyphs">PLATAFORMA DE EVOLUCAO OPERACIONAL</text>
+</svg>

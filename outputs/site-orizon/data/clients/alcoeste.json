@@ -1,0 +1,43 @@
+{
+  "id": "alcoeste",
+  "name": "ALCOESTE",
+  "level": "START",
+  "areaHa": 33000,
+  "potential": "Entrada ou reaproximacao controlada",
+  "adoptionStage": "Reaproximacao controlada",
+  "technologyEntry": "Portfolio core",
+  "adoptionDirective": "Expandir Auras/Auba/Tritter como nucleo de eficiencia biologica",
+  "partner": "Comercial + NOOA Tecnica",
+  "evolutionTrack": "Retomar acesso, entender restricao financeira e limitar credito ate novo marco tecnico",
+  "governance": "Acompanhamento comercial por marco",
+  "assistStage": {
+    "current": "Diagnosticar",
+    "progress": 34,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "current"
+      },
+      {
+        "name": "Corrigir",
+        "status": "next"
+      },
+      {
+        "name": "Evoluir",
+        "status": "next"
+      }
+    ]
+  },
+  "approvalStatus": "Qualificacao controlada",
+  "followUp": {
+    "cadence": "Semanal ate qualificacao",
+    "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+    "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+  },
+  "clientReport": {
+    "title": "Evolution Report | ALCOESTE",
+    "thesis": "ALCOESTE: Potencial latente com reaproximacao controlada. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Reaproximar, qualificar dor operacional e acesso a decisor",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}

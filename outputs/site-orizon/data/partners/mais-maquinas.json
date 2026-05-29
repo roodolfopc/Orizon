@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-05-27T19:14:33.348428+00:00",
+  "partner": "Mais Maquinas",
+  "assignedClients": [
+    {
+      "id": "grupo-raizen",
+      "name": "GRUPO RAÍZEN",
+      "level": "LEGACY",
+      "assistStage": {
+        "current": "Diagnosticar",
+        "progress": 34,
+        "steps": [
+          {
+            "name": "Diagnosticar",
+            "status": "current"
+          },
+          {
+            "name": "Corrigir",
+            "status": "next"
+          },
+          {
+            "name": "Evoluir",
+            "status": "next"
+          }
+        ]
+      },
+      "scope": "Entrar por unidades-piloto, validar com TCH, padronizar e renovar em contrato plurianual",
+      "nextMilestone": "Diagnostico pendente ou decisor ainda nao confirmado"
+    }
+  ],
+  "visibility": "partner",
+  "note": "Payload sem credito, politica comercial, ranking, score breakdown ou dados de outros parceiros."
+}

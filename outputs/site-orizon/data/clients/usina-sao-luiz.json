@@ -1,0 +1,43 @@
+{
+  "id": "usina-sao-luiz",
+  "name": "USINA SÃO LUIZ",
+  "level": "START",
+  "areaHa": 35000,
+  "potential": "Entrada ou reaproximacao controlada",
+  "adoptionStage": "Diagnostico e qualificacao",
+  "technologyEntry": "Diagnostico",
+  "adoptionDirective": "Comecar por diagnostico, dor operacional e protocolo mensuravel",
+  "partner": "Comercial + NOOA Tecnica",
+  "evolutionTrack": "Qualificar decisor, dor operacional e janela agricola antes de liberar investimento",
+  "governance": "Acompanhamento comercial por marco",
+  "assistStage": {
+    "current": "Diagnosticar",
+    "progress": 34,
+    "steps": [
+      {
+        "name": "Diagnosticar",
+        "status": "current"
+      },
+      {
+        "name": "Corrigir",
+        "status": "next"
+      },
+      {
+        "name": "Evoluir",
+        "status": "next"
+      }
+    ]
+  },
+  "approvalStatus": "Qualificacao controlada",
+  "followUp": {
+    "cadence": "Semanal ate qualificacao",
+    "trigger": "Diagnostico pendente ou decisor ainda nao confirmado",
+    "nextAction": "Reaproximar, qualificar dor operacional e acesso a decisor"
+  },
+  "clientReport": {
+    "title": "Evolution Report | USINA SÃO LUIZ",
+    "thesis": "USINA SÃO LUIZ: Potencial a qualificar com diagnostico e qualificacao. Direcionar ORIZON por adocao tecnologica, nao apenas por potencial historico.",
+    "nextCycle": "Reaproximar, qualificar dor operacional e acesso a decisor",
+    "proof": "Apoio tecnico-operacional condicionado a diagnostico, plano aprovado e evidencia de campo."
+  }
+}
