@@ -11,6 +11,10 @@ import {
 const DATA_URL = "./data/orizon-data.json?v=20260527-governance";
 const SAAS_DATA_URL = "./data/orizon-saas-data.json?v=20260529-saas-v2";
 const SAAS_PUBLIC_URL = "./data/orizon-saas-public.json?v=20260529-saas-v2";
+const LOCAL_HOSTS = new Set(["", "localhost", "127.0.0.1", "::1"]);
+const IS_PUBLIC_DEPLOY =
+  Boolean((globalThis as { ORIZON_PUBLIC_DEPLOY?: boolean }).ORIZON_PUBLIC_DEPLOY) ||
+  (globalThis.location?.protocol !== "file:" && !LOCAL_HOSTS.has(globalThis.location?.hostname ?? ""));
 
 const navItems = [
   { label: "Inicio", href: "program", scope: "public" },
@@ -96,6 +100,9 @@ const accessProfiles = [
     description: "Acessa trilhas de equipamentos, pontos e coparticipacao operacional, sem carteira sensivel.",
   },
 ];
+const activeAccessProfiles = IS_PUBLIC_DEPLOY
+  ? accessProfiles.filter((profile) => profile.role === "public")
+  : accessProfiles;
 
 const governanceLayers = [
   {
@@ -846,7 +853,7 @@ class OrizonCockpitApp extends HTMLElement {
   }
 
   currentProfile() {
-    return accessProfiles.find((profile) => profile.id === this.state.profileId) ?? accessProfiles[0];
+    return activeAccessProfiles.find((profile) => profile.id === this.state.profileId) ?? activeAccessProfiles[0];
   }
 
   canUseAdminFeatures() {
@@ -1404,12 +1411,16 @@ class OrizonCockpitApp extends HTMLElement {
           <strong>${isAdmin ? "Cockpit executivo de evolucao operacional agricola" : "Plataforma de evolucao operacional agricola"}</strong>
         </div>
         <div class="login-zone" aria-label="Sessao de login">
-          <label class="login-select">
-            <span>${safe(loggedLabel)}</span>
-            <select id="profileLogin" aria-label="Login ORIZON">
-              ${accessProfiles.map((item) => `<option value="${safe(item.id)}" ${item.id === profile.id ? "selected" : ""}>${safe(item.label)}</option>`).join("")}
-            </select>
-          </label>
+          ${
+            IS_PUBLIC_DEPLOY
+              ? `<div class="login-select is-public"><span>Acesso institucional</span><strong>Publico</strong></div>`
+              : `<label class="login-select">
+                  <span>${safe(loggedLabel)}</span>
+                  <select id="profileLogin" aria-label="Login ORIZON">
+                    ${activeAccessProfiles.map((item) => `<option value="${safe(item.id)}" ${item.id === profile.id ? "selected" : ""}>${safe(item.label)}</option>`).join("")}
+                  </select>
+                </label>`
+          }
         </div>
       </header>
     `;

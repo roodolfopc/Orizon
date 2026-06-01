@@ -1,5 +1,8 @@
 previews/
 scripts/
 src/
+data/orizon-data.json
+data/orizon-saas-data.json
+data/clients/
 *.tmp
 *.log
